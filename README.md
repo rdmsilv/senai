@@ -19,3 +19,16 @@ Uma série de exemplos passo a passo que informam como executar um ambiente de d
 7- git push -u oringin <br>
 8- Abra o navegado e vá até o GitHub <br>
 9- Fazer um Merge<br>
+
+# Tipos de Branch<br>
+Feat --> Algo novo, uma nova implementação.<br>
+Fix --> Ajustes, quando algo em um código já existente e arrumado.<br>
+Refactor --> Melhorias, quando houverem código já existente.<br>
+Doc --> Documentos (README, wiki), ou tudo que não for códigoe for documentação, explicação sobre algo.<br>
+Chore --> Tudo que for configuração de projeto. <br>
+
+Feat/XPTO<br>
+Fix/XPTO<br>
+Refactor/XPTO<br>
+Doc/Como rodar o projeto<br>
+Chore/ configurando- Testes
