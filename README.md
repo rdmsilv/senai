@@ -10,7 +10,7 @@ Essas instruções fornecerão a você como executar em sua máquina local para 
 Uma série de exemplos passo a passo que informam como executar um ambiente de desenvolvimento
 
 # Passo a Passo
-1- git init 
+1- git init <br>
 2- git chechout -b 
 3- git status "Se houver Alteração"
 4- git add "Mais o nome do projeto"
