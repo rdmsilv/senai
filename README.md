@@ -31,4 +31,12 @@ Feat/XPTO<br>
 Fix/XPTO<br>
 Refactor/XPTO<br>
 Doc/Como rodar o projeto<br>
-Chore/ configurando- Testes
+Chore/ configurando- Testes.
+
+# Para o Commit
+feat: mensagem<br>
+fix: mensagem<br>
+refactor: mensagem<br>
+doc: mensagem<br>
+chore: mensagem
+
