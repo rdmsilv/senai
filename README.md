@@ -6,7 +6,7 @@ Após a criação do seu código você irá precisa das seguintes instruções.
 
 # Começando
 
-Essas instruções fornecerão a você como executar em sua máquina local para fins de desenvolvimento e teste.
+Essas instruções fornecerão a você como executar em sua máquina local para fins de desenvolvimento e teste.<br>
 Uma série de exemplos passo a passo que informam como executar um ambiente de desenvolvimento
 
 # Passo a Passo
